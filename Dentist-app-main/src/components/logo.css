@@ -1,0 +1,25 @@
+.divTeeth{
+    margin: 1% 2%;
+ 
+
+}
+
+#Title{
+    font-size: xx-large;
+    color: #007EED;
+    display: inline-block;
+    margin:1%
+}
+.girl{
+    height: 50%;
+    width: 30%;
+    position:relative;
+    left:65%;
+    border-radius: 75px;
+    display: inline;
+    z-index: -1;
+}
+.divGirl{
+    display: inline;
+    
+}

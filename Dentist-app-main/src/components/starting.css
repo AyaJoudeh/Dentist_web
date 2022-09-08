@@ -1,0 +1,44 @@
+#Welcome{
+    color: #007EED;
+    font-size:40px;
+    font-family:sans-serif;
+    border-style:ridge ;
+    border-radius:50px;
+    box-shadow:5px 4px 10px #007EED;
+    width: 20%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#first {
+    color: black;
+    font-size:100px;
+    font-weight:bold
+}
+
+#second{
+    color: #007EED;
+    font-size:100px;
+    font-weight:bold
+}
+
+.startingDiv{
+    margin-left: 3%;
+}
+.slidePosition{
+/*    
+    height: 10%; 
+    width: 50%; */
+    
+   
+}
+
+.details{
+    color: gray;
+    font-family:Verdana, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.docBtn{
+  border-radius: 75px;
+}
